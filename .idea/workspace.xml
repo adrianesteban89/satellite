@@ -1,0 +1,490 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2db9323f-8240-40e7-bb04-658703465c8d" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/satellite.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/satellite.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/casscore/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/casscore/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/satellite/templates/satellite/errors.html" beforeDir="false" afterPath="$PROJECT_DIR$/satellite/templates/satellite/errors.html" afterDir="false" />
+    </list>
+    <ignored path="satellite.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="satellite" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="errors.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/satellite/templates/satellite/errors.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="35" column="15" lean-forward="true" selection-start-line="35" selection-start-column="15" selection-end-line="35" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/satellite/grids.py" />
+        <option value="$PROJECT_DIR$/satellite/jqgrid.py" />
+        <option value="$PROJECT_DIR$/casscore/urls.py" />
+        <option value="$PROJECT_DIR$/satellite/templates/satellite/base.html" />
+        <option value="$PROJECT_DIR$/satellite/templates/satellite/paginator.html" />
+        <option value="$PROJECT_DIR$/satellite/templates/satellite/index.html" />
+        <option value="$PROJECT_DIR$/satellite/templates/satellite/utm.html" />
+        <option value="$PROJECT_DIR$/satellite/templates/satellite/event_error.html" />
+        <option value="$PROJECT_DIR$/satellite/upload/upload.py" />
+        <option value="$PROJECT_DIR$/satellite/templates/satellite/upload.html" />
+        <option value="$PROJECT_DIR$/satellite/templates/satellite/tm.html" />
+        <option value="$PROJECT_DIR$/satellite/templates/satellite/500.html" />
+        <option value="$PROJECT_DIR$/satellite/templates/satellite/upload_tm.html" />
+        <option value="$PROJECT_DIR$/satellite/models.py" />
+        <option value="$PROJECT_DIR$/satellite/tm_file_manager.py" />
+        <option value="$PROJECT_DIR$/satellite/templates/satellite/filters.html" />
+        <option value="$PROJECT_DIR$/satellite/templates/satellite/info.html" />
+        <option value="$PROJECT_DIR$/satellite/urls.py" />
+        <option value="$PROJECT_DIR$/satellite/templates/satellite/housekeeping.html" />
+        <option value="$PROJECT_DIR$/satellite/templates/satellite/hello.html" />
+        <option value="$PROJECT_DIR$/satellite/views.py" />
+        <option value="$PROJECT_DIR$/casscore/settings.py" />
+        <option value="$PROJECT_DIR$/satellite/templates/satellite/errors.html" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1855" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="satellite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="satellite" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="satellite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="satellite" type="462c0819:PsiDirectoryNode" />
+              <item name="casscore" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="satellite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="satellite" type="462c0819:PsiDirectoryNode" />
+              <item name="satellite" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="satellite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="satellite" type="462c0819:PsiDirectoryNode" />
+              <item name="satellite" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="satellite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="satellite" type="462c0819:PsiDirectoryNode" />
+              <item name="satellite" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="satellite" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Education/Unimelb PhD/code/PhD" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\oscarcg\Dropbox\Career\Projects as independent\satellite\satellite" />
+      <recent name="C:\Users\oscarcg\Dropbox\Career\Projects as independent\satellite\satellite\static\satellite\js" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\oscarcg\Dropbox\Career\Projects as independent\satellite\satellite\static\satellite\css" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="satellite" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2db9323f-8240-40e7-bb04-658703465c8d" name="Default" comment="" />
+      <created>1530448480872</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1530448480872</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Inclusion of jqgrid and django-jqgrid">
+      <created>1530458607108</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1530458607108</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Inclusion of jqgrid and django-jqgrid">
+      <created>1530458860415</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1530458860415</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Trying to get jqgrid work">
+      <created>1530537291455</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1530537291455</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Trying to get jqgrid work">
+      <created>1530540834194</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1530540834194</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Refactorization of the whole project without using jqgrid">
+      <created>1530627020726</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1530627020726</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Inclusion of pages Hello and Housekeeping events">
+      <created>1530683671730</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1530683671730</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Inclusion of upload file functionality">
+      <created>1530704359056</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1530704359056</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Check whether the file was already uploaded">
+      <created>1530779376658</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1530779376658</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Fix partition and primary keys. Fix clustering order by post time DESC.">
+      <created>1530793287469</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1530793287469</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Format post time">
+      <created>1530794806302</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1530794806302</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1855" height="1056" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13638814" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5021075" side_tool="true" weight="0.48809522" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32792208" />
+      <window_info anchor="bottom" id="Python Console" order="7" weight="0.53571427" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49789253" visible="true" weight="0.48734176" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32792208" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32792208" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13645943" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32792208" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49789253" visible="true" weight="0.48809522" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5021075" side_tool="true" weight="0.48809522" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Python Console" order="8" weight="0.53571427" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Inclusion of jqgrid and django-jqgrid" />
+    <MESSAGE value="Trying to get jqgrid work" />
+    <MESSAGE value="Refactorization of the whole project without using jqgrid" />
+    <MESSAGE value="Inclusion of pages Hello and Housekeeping events" />
+    <MESSAGE value="Inclusion of upload file functionality" />
+    <MESSAGE value="Check whether the file was already uploaded" />
+    <MESSAGE value="Fix partition and primary keys. Fix clustering order by post time DESC." />
+    <MESSAGE value="Format post time" />
+    <option name="LAST_COMMIT_MESSAGE" value="Format post time" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/satellite/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/django-grid-master/grid/templatetags/__init__.py" />
+    <entry file="file://$USER_HOME$/Downloads/django-grid-master/grid/templatetags/dict.py" />
+    <entry file="file://$USER_HOME$/Downloads/django-grid-master/grid/templatetags/list.py" />
+    <entry file="file://$USER_HOME$/Downloads/django-grid-master/grid/__init__.py" />
+    <entry file="file://$USER_HOME$/Downloads/django-grid-master/grid/templatetags/request.py" />
+    <entry file="file://$PROJECT_DIR$/grid/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/satellite/static/satellite/css/ui.jqgrid.css" />
+    <entry file="file://C:/Anaconda2/Lib/site-packages/django/urls/base.py" />
+    <entry file="file://C:/Anaconda2/Lib/site-packages/django/utils/functional.py" />
+    <entry file="file://C:/Anaconda2/Lib/site-packages/django/utils/datastructures.py" />
+    <entry file="file://$USER_HOME$/.PyCharm2016.1/system/python_stubs/884504192/cassandra/connection.py" />
+    <entry file="file://C:/Anaconda2/Lib/site-packages/django/core/paginator.py" />
+    <entry file="file://$USER_HOME$/.PyCharm2016.1/system/python_stubs/884504192/__builtin__.py" />
+    <entry file="file://C:/Anaconda2/Lib/site-packages/django/db/models/query.py" />
+    <entry file="file://$PROJECT_DIR$/casscore/wsgi.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/satellite/grids.py" />
+    <entry file="file://C:/Anaconda2/Lib/site-packages/django/db/models/manager.py" />
+    <entry file="file://C:/Anaconda2/Lib/site-packages/six.py" />
+    <entry file="file://$PROJECT_DIR$/satellite/apps.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="21" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/satellite/migrations/0001_initial.py" />
+    <entry file="file://C:/Anaconda2/Lib/site-packages/cassandra/cqlengine/query.py" />
+    <entry file="file://$PROJECT_DIR$/casscore/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/satellite/templates/satellite/paginator.html" />
+    <entry file="file://$PROJECT_DIR$/satellite/templates/satellite/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/satellite/templates/satellite/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/satellite/jqgrid.py" />
+    <entry file="file://$PROJECT_DIR$/satellite/tests.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/satellite/upload/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/satellite/templates/satellite/tm.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="70" selection-start-line="12" selection-start-column="70" selection-end-line="12" selection-end-column="70" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#!!top" />
+            <element signature="n#style#0;n#div#1;n#!!top" />
+            <element signature="n#style#0;n#div#2;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Anaconda2/Lib/site-packages/comtypes/tools/typedesc_base.py" />
+    <entry file="file://C:/Anaconda2/Lib/site-packages/django/core/files/storage.py" />
+    <entry file="file://C:/Anaconda2/Lib/site-packages/django/http/response.py" />
+    <entry file="file://$PROJECT_DIR$/satellite/templates/satellite/500.html" />
+    <entry file="file://C:/Anaconda2/Lib/site-packages/cassandra/cqlengine/models.py" />
+    <entry file="file://$USER_HOME$/.PyCharm2016.1/system/python_stubs/884504192/datetime.py" />
+    <entry file="file://C:/Anaconda2/Lib/site-packages/cassandra/cqlengine/functions.py" />
+    <entry file="file://C:/Anaconda2/Lib/site-packages/django_cassandra_engine/models/__init__.py" />
+    <entry file="file://C:/Anaconda2/Lib/site-packages/cassandra/cqlengine/columns.py" />
+    <entry file="file://$PROJECT_DIR$/satellite/tm_file_manager.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="79" column="94" selection-start-line="79" selection-start-column="94" selection-end-line="79" selection-end-column="94" />
+          <folding>
+            <element signature="e#0#53#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/satellite/templates/satellite/filters.html" />
+    <entry file="file://$PROJECT_DIR$/satellite/templates/satellite/upload_tm.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="7" selection-start-line="5" selection-end-line="9" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/satellite/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="795">
+          <caret line="53" column="29" selection-start-line="53" selection-start-column="29" selection-end-line="53" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/satellite/templates/satellite/info.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="83" selection-start-line="3" selection-start-column="83" selection-end-line="3" selection-end-column="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/satellite/templates/satellite/hello.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="34" selection-start-line="3" selection-end-line="24" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/satellite/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="11" column="67" selection-start-line="11" selection-start-column="55" selection-end-line="11" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Anaconda2/Lib/site-packages/django/utils/dateparse.py" />
+    <entry file="file://$PROJECT_DIR$/satellite/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="89" column="37" selection-start-line="89" selection-start-column="37" selection-end-line="89" selection-end-column="37" />
+          <folding>
+            <element signature="e#24#33#0" expanded="true" />
+            <element signature="e#4151#4760#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/casscore/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="81" column="55" selection-start-line="81" selection-start-column="55" selection-end-line="81" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/satellite/templates/satellite/housekeeping.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="16" lean-forward="true" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/satellite/templates/satellite/errors.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="35" column="15" lean-forward="true" selection-start-line="35" selection-start-column="15" selection-end-line="35" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
